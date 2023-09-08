@@ -22,7 +22,7 @@ function App() {
 
   return (
     <>
-    <div>
+    <div className="p-4">
       <h1 className="text-4xl font-bold text-center mt-4">Michael&apos; Navigation</h1>
       <p className="text-center text-gray-500">A simple navigation page for Michael&apos;s daily use.</p>
     </div>

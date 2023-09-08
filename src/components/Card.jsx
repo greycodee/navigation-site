@@ -10,7 +10,7 @@ export default function Card(props) {
           <p className="font-medium">{title}</p>
         </blockquote>
         <figcaption className="font-medium text-sm">
-          <div className=" text-slate-700 ">
+          <div className=" text-slate-400 ">
             {desc}
           </div>
         </figcaption>
