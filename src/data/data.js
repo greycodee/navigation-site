@@ -9,6 +9,12 @@ const data = [
                 "desc":"科技爱好者周刊."
             },
             {
+                "title":"Easy Indie",
+                "url":"https://www.ezindie.com/",
+                "icon":"https://www.ezindie.com/favicon.ico",
+                "desc":"独立开发产品变现周刊，每周五发布."
+            },
+            {
                 "title":"HelloGitHub",
                 "url":"https://github.com/521xueweihan/HelloGitHub",
                 "icon":"HelloGitHub",
