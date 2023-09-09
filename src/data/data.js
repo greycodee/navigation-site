@@ -9,6 +9,18 @@ const data = [
                 "desc":"科技爱好者周刊."
             },
             {
+                "title":"HelloGitHub",
+                "url":"https://github.com/521xueweihan/HelloGitHub",
+                "icon":"HelloGitHub",
+                "desc":"Share interesting, entry-level open source projects on GitHub."
+            },
+            {
+                "title":"Bizarro Devs",
+                "url":"https://www.bizzarodevs.com/",
+                "icon":"https://www.bizzarodevs.com/favicon.ico",
+                "desc":"Quirky tech stories mixed with unusual facts and practical tools."
+            },
+            {
                 "title":"Hacker News",
                 "url":"https://news.ycombinator.com/",
                 "icon":"https://news.ycombinator.com/favicon.ico",
