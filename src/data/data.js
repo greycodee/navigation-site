@@ -96,7 +96,12 @@ const data = [
                 "icon":"https://motion.dev/layout/favicon.png",
                 "desc":"The Web Animations API for everyone."
             },
-            
+            {
+                "title":"neumorphism.io",
+                "url":"https://neumorphism.io/#ebebeb",
+                "icon":"https://neumorphism.io/favicon.ico",
+                "desc":"Neumorphism/Soft UI CSS shadow generator."
+            }
         ]
     },
     {
