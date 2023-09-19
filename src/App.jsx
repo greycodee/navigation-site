@@ -22,9 +22,19 @@ function App() {
 
   return (
     <>
-    <div className="p-4">
-      <h1 className="text-4xl font-bold text-center mt-4">Michael&apos; Navigation</h1>
-      <p className="text-center text-gray-500">A simple navigation page for Michael&apos;s daily use.</p>
+    <div className="p-4 mt-4 flex justify-center items-center">
+      <div className="w-[400px] h-[100px] relative overflow-hidden rounded-xl z-0
+      before:w-[396px] before:h-[96px] before:absolute before:top-[2px] before:left-[2px] before:bg-black before:rounded-xl
+      after:w-[500px] after:h-[500px] after:absolute after:top-[-200px] after:left-[-50px] before:z-20 
+      after:bg-gradient-to-bl after:from-neutral-800 after:via-indigo-500 after:to-pink-700
+      after:z-10 after:animate-spin-slow 
+      ">
+        <div className="z-30 absolute top-[15px] left-[20px] h-[70px] w-[360px]">
+          <div className=" text-4xl font-bold text-center leading-tight">Michael&apos; Navigation</div>
+          <div className=" text-center text-gray-500 leading-tight">A simple navigation page for Michael&apos;s daily use.</div>
+        </div>
+        
+      </div>
     </div>
     <div>
       {cards.map((card) => (
