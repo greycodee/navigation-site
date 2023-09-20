@@ -33,8 +33,12 @@ function App() {
           bg-black rounded-xl z-20 
           flex flex-col justify-center items-center
         ">
-          <div className=" text-2xl font-bold text-center leading-tight">Michael&apos; Navigation</div>
-          <div className=" text-sm text-center text-gray-500 leading-tight">A simple navigation page for Michael&apos;s daily use.</div>
+          <div className=" text-2xl font-bold text-center leading-tight
+          bg-gradient-to-bl from-neutral-800 via-indigo-500 to-pink-700 text-transparent bg-clip-text
+          ">Michael&apos; Navigation</div>
+          <div className=" text-sm text-center text-gray-500 leading-tight
+          bg-gradient-to-bl from-neutral-800 via-indigo-500 to-pink-700 text-transparent bg-clip-text
+          ">A simple navigation page for Michael&apos;s daily use.</div>
         </div>
         
       </div>
